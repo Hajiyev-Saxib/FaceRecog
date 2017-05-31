@@ -1,0 +1,36 @@
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\WebCam.exe.config
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\WebCam.exe
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\WebCam.pdb
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Controls.dll
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.dll
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Video.dll
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Imaging.dll
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Math.dll
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.xml
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Controls.xml
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Video.xml
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Imaging.xml
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Math.xml
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\obj\Debug\WebCam.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\obj\Debug\WebCam.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\obj\Debug\WebCam.exe
+c:\users\samsung\documents\visual studio 2013\Projects\WebCam\WebCam\obj\Debug\WebCam.pdb
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\Emgu.CV.World.dll
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\ZedGraph.dll
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\Emgu.CV.World.xml
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\ZedGraph.xml
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Samsung\documents\visual studio 2013\Projects\WebCam\WebCam\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\WebCam\WebCam\bin\Debug\AForge.Video.VFW.xml
+D:\Универ\ДИПЛОМ УАХАХАХА\ДП\FaceRecog\WebCam\WebCam\bin\Debug\WebCam.exe.config
+D:\Универ\ДИПЛОМ УАХАХАХА\ДП\FaceRecog\WebCam\WebCam\obj\Debug\WebCam.exe
+D:\Универ\ДИПЛОМ УАХАХАХА\ДП\FaceRecog\WebCam\WebCam\obj\Debug\WebCam.pdb
